@@ -30,7 +30,7 @@
 
 ####################################################################################################
 
-for numero in range(1, int(input("Digite um numero para determinar o fim: ")), 1):
-    print("	" + str(numero))
+# for numero in range(1, int(input("Digite um numero para determinar o fim: ")), 1):
+#     print("	" + str(numero))
 
 ####################################################################################################
